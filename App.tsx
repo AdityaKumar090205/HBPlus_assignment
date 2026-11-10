@@ -1,8 +1,8 @@
 
 import React from "react";
 
-import { AuthProvider } from "./src/context/AuthContext";
-import AppNavigator from "./src/navigation/AppNavigator";
+import { AuthProvider } from "./hbplus-auth-app/assets/src/context/AuthContext";
+import AppNavigator from "./hbplus-auth-app/assets/src/navigation/AppNavigator";
 
 export default function App() {
   return (
